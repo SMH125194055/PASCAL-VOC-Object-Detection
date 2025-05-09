@@ -37,7 +37,7 @@ This project implements a **multi-label classification** and **object detection*
 ---
 
 ## 📈 Results
-- **Classification Accuracy**: ~85%
+- **Classification Accuracy**: ~70%
 - **Bounding Box Prediction**: ~0.75 mIoU
 
 ---
